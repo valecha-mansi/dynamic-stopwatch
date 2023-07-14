@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @valecha-mansi
-- 👀 I’m interested in challenging codes of designing
-- 🌱 I’m currently learning Next.js and Python
+- 🌱 According to this project, there are segment hours, minutes, seconds, and milliseconds. When you click on the start button, the milliseconds start to increase, then seconds, minutes, and hours. To stop the stopwatch, you can click on the stop button, and to reset the stopwatch, you have to click on the reset button.
 - 📫 My official github account https://github.com/valecha-mansi
 
-<!---
-valecha-mansi/valecha-mansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
